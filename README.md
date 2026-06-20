@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo_square.png" width="100" alt="Aetherial AI Logo">
+<img src="assets/aetherial-logo.png" width="100" alt="Aetherial AI Logo">
 
 #  Aetherial AI
 ### Asisten Personal Multi-Mode Berbasis LangChain, LangGraph & LangSmith
